@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630970068 source:c:\users\attor\documents\programming\personal projects\c++ programming\vacation mini projects\currencyexchangecalculator\main.cpp
+	<iostream>
+	<ctype.h>
+
